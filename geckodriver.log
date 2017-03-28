@@ -1,0 +1,38 @@
+1490714207040	geckodriver	INFO	Listening on 127.0.0.1:50295
+1490714208087	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hTeBWPhSkwR1
+1490714208088	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490714208091	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46879
+1490714209246	Marionette	INFO	Listening on port 46879
+
+(firefox:6087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yn/r/tC1D5PhweUO.js, line 3: TypeError: m is undefined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yn/r/tC1D5PhweUO.js, line 3: TypeError: m is undefined
+1490714272387	geckodriver	INFO	Listening on 127.0.0.1:59147
+1490714273457	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tTfpw4WVtb71
+1490714273458	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490714273462	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45503
+1490714274538	Marionette	INFO	Listening on port 45503
+
+(firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
