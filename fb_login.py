@@ -16,5 +16,6 @@ elem_user.send_keys(usr)
 elem_pass.send_keys(pwd)
 elem_pass.send_keys(Keys.RETURN)
 
+browser.close()
 
 

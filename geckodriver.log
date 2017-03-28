@@ -36,3 +36,41 @@ JavaScript error: https://www.facebook.com/rsrc.php/v3/yn/r/tC1D5PhweUO.js, line
 (firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
 
 (firefox:6238): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1490714527272	geckodriver	INFO	Listening on 127.0.0.1:45677
+1490714528348	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TWTfDN9NuMiS
+1490714528349	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490714528352	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33049
+1490714529443	Marionette	INFO	Listening on port 33049
+
+(firefox:6456): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6456): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6456): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6456): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6456): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6456): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6456): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1490714623466	geckodriver	INFO	Listening on 127.0.0.1:60351
+1490714624542	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.h8D3opHbNyKj
+1490714624543	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490714624546	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45355
+1490714625655	Marionette	INFO	Listening on port 45355
+
+(firefox:6601): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6601): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6601): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6601): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6601): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6601): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6601): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f335057ace0' of type 'MaiAtkType139'
